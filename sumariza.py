@@ -36,7 +36,7 @@ qt_redes_destino = 0
 #-----------------------------------------------------------------------
 
 os.system('cls' if os.name == 'nt' else 'clear')
-titulo = "Sumarizador de Rotas - Converte uma arquivo de rotas em blocos maiores - %s - v%s - %s" % (__author__, __version__,__datebegin__)
+titulo = "Sumarizador de Rotas - Converte uma arquivo de rotas em blocos maiores (com mais IPs) - %s - v%s - %s" % (__author__, __version__,__datebegin__)
 print("#"*100)
 print(" %s" %(titulo))
 print("#"*100)
