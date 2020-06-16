@@ -9,6 +9,18 @@ python ./sumariza.py <CAMINHO_ARQUIVO_TXT_COM_ROTAS_A_SUMARIZAR>
 
  - No arquivo, informe uma rota por linha. Exemplo: 192.168.0.0/24
 
+------------------------------------------------------------------------
+
+## Pré requisito: "netaddr" do Python.
+
+Executar como root para instalar:
+
+```
+apt install netaddr
+```
+
+------------------------------------------------------------------------
+
 ## Licença:
 
 GRCN is free software; you can redistribute it and/or modify
